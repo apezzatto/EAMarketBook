@@ -1,3 +1,1 @@
-# ea
-# EAMarketBook
 # EAMarketBook
